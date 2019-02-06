@@ -1,0 +1,147 @@
+@font-face {
+    font-family: "Jen Sans";
+    src: url("../fonts/jen_sans.eot") format('embedded-opentype'),
+         url("../fonts/jen_sans.ttf") format("truetype");
+    font-style: normal;
+}
+
+body {
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    background: #0D1D42;
+    font-size: 14;
+    position:relative;
+	line-height: 2em;
+	font-family: 'Merriweather', serif;
+	color: #333333;
+	background-color: #0D1D42;
+}
+
+/* Links */
+a {
+  color: #0D1D42;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #333333;
+  text-decoration: underline;
+}
+a:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+.container2 {
+    width:100%;
+	padding:5%;
+	line-height: 2em;
+}
+
+.noBoot {
+    padding-left:5%;
+    padding-right:5%;
+}
+
+.btn-bodylink {
+    background:#3A6091;
+    color: white;
+    margin:0;
+}
+
+.btn-bottomlink {
+    background:#3A6091;
+    color: white;
+}
+
+.handwrittenFont {
+    font-family: 'Jen Sans', 'Calibri', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+/* BGs */
+.whiteblueSection {
+    background: white;
+    color: #0D1D42;
+    line-height: 2.5em;
+}
+
+.darkblueSection {
+    background: #0D1D42;
+    color: white;
+}
+
+.darkblueSection  a{
+    color: white;
+}
+
+.darkblueText {
+    color: #0D1D42;
+}
+
+.profilePic {
+    border-radius: 30px;
+    border: 8px solid white; 
+    margin-left: 8px;
+}
+
+/* Timeline */
+.container [class^="col"] {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.row {
+    overflow-y: hidden;
+}
+
+.lineoftime {
+    border-left: 10px solid white;
+    position: absolute;
+    top: 0;
+    left: 49%;
+    height: 5000px !important;
+    float: center;
+}
+
+.leftBubble {
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 8px solid white; 
+    background-color: white;
+    color: #0D1D42;
+    margin-bottom: 20px;
+    padding: 2px;
+}
+
+.rightBubble {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 8px solid white; 
+    background-color: white;
+    color: #0D1D42;
+    margin-bottom: 20px;
+    padding: 2px;
+}
+
+.triangle-right {
+	width: 0;
+	height: 0;
+    float: left;
+	border-top: 25px solid transparent;
+	border-left: 50px solid white;
+	border-bottom: 25px solid transparent;
+    vertical-align: middle;
+}
+
+.triangle-left {
+	width: 0;
+	height: 0;
+    float: right;
+	border-top: 25px solid transparent;
+	border-right: 50px solid white;
+	border-bottom: 25px solid transparent;
+}

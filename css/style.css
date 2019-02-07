@@ -10,13 +10,13 @@ body {
     padding:0;
     width:100%;
     height:100%;
-    background: #0D1D42;
     font-size: 14;
     position:relative;
 	line-height: 2em;
 	font-family: 'Merriweather', serif;
 	color: #333333;
-	background-color: #0D1D42;
+    /* background-color: #0D1D42; */
+    background-image: linear-gradient(-90deg, #0D1D42, #023563, #03437D, #023563, #01213D);
 }
 
 /* Links */
@@ -68,7 +68,7 @@ a:focus {
 }
 
 .darkblueSection {
-    background: #0D1D42;
+    /* background: #0D1D42; */
     color: white;
 }
 
@@ -144,4 +144,8 @@ a:focus {
 	border-top: 25px solid transparent;
 	border-right: 50px solid white;
 	border-bottom: 25px solid transparent;
+}
+
+.bubbleContent {
+    padding: 20px;
 }

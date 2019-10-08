@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -18,148 +18,194 @@
   </head>
 
   <body>
-    <!-- Fixed navbar -->
-    <nav class="navbar navbar-default navbar-fixed-top darkblueText">
+      <!-- Fixed navbar -->
+      <nav class="navbar navbar-default navbar-fixed-top darkblueText">
+          <div class="container">
+              <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                  </button>
+                  <a class="navbar-brand" href="#"><span style="color: #0D1D42;"><b><font size=5>J<font size=4>EN </font></font><font size=5>B<font size=4>AUER</font></font></b></a></span>
+              </div>
+              <div id="navbar" class="navbar-collapse collapse darkblueText">
+                  <ul class="nav navbar-nav navbar-right">
+                      <li><a href="#about">About</a></li> <!-- <li class="active"> -->
+                      <li><a href="#recent">Recent</a></li>
+                      <li><a href="#contact">Contact</a></li>
+                      <li class="dropdown">
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                              <li><a href="http://jenbauer.com/JenBauer_Resume.pdf">Resume</a></li>
+                              <li role="separator" class="divider"></li>
+                              <li class="dropdown-header">Game Design</li>
+                              <li><a href="https://inliquidwonder.itch.io/" target=_blank>Works on itch.io</a></li>
+                              <li role="separator" class="divider"></li>
+                              <li class="dropdown-header">Sound Design</li>
+                              <li><a href="https://soundcloud.com/jenbauer" target=_blank>Examples on SoundCloud</a></li>
+                          </ul>
+                      </li>
+                  </ul>
+              </div><!--/.nav-collapse -->
+          </div>
+      </nav>
+
       <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#"><span style="color: #0D1D42;"><b><font size=5>J<font size=4>EN </font></font><font size=5>B<font size=4>AUER</font></font></b></a></span>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse darkblueText">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#about">About</a></li> <!-- <li class="active"> -->
-            <li><a href="#recent">Recent</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="http://jenbauer.com/JenBauer_Resume.pdf">Resume</a></li>
-				<li role="separator" class="divider"></li>
-                <li class="dropdown-header">Game Design</li>
-                <li><a href="https://inliquidwonder.itch.io/" target=_blank>Works on itch.io</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Sound Design</li>
-                <li><a href="https://soundcloud.com/jenbauer" target=_blank>Examples on SoundCloud</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
+          <br><br><br>
+          <div class="darkblueSection">
+              <img src="img\Profile_JenBauer.jpg" width="200" class="profilePic pull-right hidden-xs">
+              <h2>I'm a developer and analyst hybrid, software tester, project lead, and challenge decimator.</h2><br>
+          </div>
 
-    <div class="container">
-		<br><br><br>
-		<div class="darkblueSection">
-		<img src="img\Profile_JenBauer.jpg" width="160" class="profilePic pull-right">
-		<h2>I'm a web developer, software tester, project lead, and challenge decimator.</h2><br>
-		</div>
-		
-    <div id="about" class="jumbotron whiteblueSection">
-        <p>You're looking at the (work-in-progress) portfolio of a web developer.<br>
-        <a href="https://soundcloud.com/jenbauer" target=_blank>You may know me as a saxophonist or an experimental composer.</a>&nbsp;&nbsp;<a class="btn btn-sm btn-primary" href="https://soundcloud.com/jenbauer" role="button" target=_blank>Hey! Listen! &raquo;</a><br>
-        <a href="http://www.aes.org/e-lib/browse.cfm?elib=15185" target=_blank>I published a white paper on interactive sound design.</a>&nbsp;&nbsp;<a class="btn btn-sm btn-primary" href="http://www.aes.org/e-lib/browse.cfm?elib=15185" role="button" target=_blank>Read all about it. &raquo;</a><br>
-        I've made <a href="https://inliquidwonder.itch.io/" target=_blank>games</a> from time to time.&nbsp;&nbsp;<a class="btn btn-sm btn-primary" href="https://inliquidwonder.itch.io/" role="button" target=_blank>Click click! &raquo;</a><!--Some of them are wonky and full of heart, like Thesis Hunter and PAC-Type.-->
-        </p>
-<!--        <p>
-          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">Portfolio pieces &raquo;</a>
-        </p>-->
-      </div>
+          <div id="recent" class="jumbotron whiteblueSection">
+              <p>I am looking forward to my next adventure.<br />I am available for full or partial remote work!</p>
+              <a class="btn btn-sm btn-primary" href="https://www.linkedin.com/in/thejenbauer" role="button" target=_blank>Check out my profile on LinkedIn! &raquo;</a><br />
+              <a class="btn btn-sm btn-primary" href="http://jenbauer.com/JenBauer_Resume.pdf" role="button" target=_blank>My resume is up to date! &raquo;</a>
+              </p>
+          </div>
+          <br>
 
-    <div id="recent" class="jumbotron whiteblueSection">
-      <h3><b>Recent Events</b></h3><br>
-      <p>2019-02-05: Uploaded the new design for this site.</a></p>
-      <p>2018-09-28: Updated my <a src="'https://www.linkedin.com/in/thejenbauer'" target=_blank>LinkedIn profile.</a>&nbsp;&nbsp;
-        <a class="btn btn-sm btn-primary" href="https://www.linkedin.com/in/thejenbauer" role="button" target=_blank>Check it out! &raquo;</a>
-      </p>
-    </div>
-    <br>
-
-	  <div id="timeline" class="darkblueSection">
-      <h3>Timeline of Work Experience</h3>
-      <br>
-        <div class="container">
-          <div class="row no-gutters">
-            <div class="col-sm-5 leftBubble">
-              <div class="bubbleContent">
-              Verizon Wireless in Greenville, SC<br>
-              <h4>Senior Analyst in the National Command Center</h4>2017 - Present
-              <ul>
-              <li>Project lead on multiple development projects, developer training lead for dashboard development, and team point of contact, working directly with leadership</li>
-              <li>Frontend developer working with HTML, CSS, JS (jQuery, AngularJS), and Aceyus  to create real time and historical data based on KPIs and call center statistics</li>
-              <li>User acceptance testing lead on our team, creating documentation and processes that apply to all projects and ensure thorough testing of features and experience</li>
-              </ul>
+          <div id="timeline" class="darkblueSection">
+              <h3>Timeline of Work Experience</h3>
               <br>
-              <b>Recognition: </b> 2018 Q1 and Q2 Legends Finalist, selected for being a leader in the business and providing high value to teams and projects
+              <div class="container">
+                  <div class="row no-gutters">
+                      <div class="col-sm-5 leftBubble">
+                          <div class="bubbleContent">
+                              Verizon in Greenville, SC<br>
+                              <h4>Senior Analyst and Developer in the National Command Center</h4>
+                              2017 - 2019<br />
+                              <i>Web developer for historical and real-time Aceyus business data dashboards, reviewed KPIs and other aspects for call centers to determine where analysts needed to dive in to keep the business efficient and successful.</i>
+                              <ul>
+                                  <li>
+                                      Project lead on multiple development projects.  Managed projects to ensure deliverables and milestones were met on time. Provided consistent stakeholder communication.  Worked with leadership to determine best solutions within given timeframe and resources.
+                                  </li>
+                                  <li>
+                                      SQL stored procedure developer and creator of SSIS packages, ETL, and adhoc data analysis with Microsoft and Teradata databases.
+                                  </li>
+                                  <li>
+                                      User acceptance testing lead on the team; created documentation and processes that applied to all team projects and ensured thorough UX testing of features and experience.
+                                  </li>
+                                  <li>Onboarded new developers; created comprehensive training documentation that reduced transition time by weeks per employee.</li>
+                              </ul>
+                              <br>
+                              <b>Recognition: </b> 2018 Q1 and Q2 Legends Finalist, selected for being a leader in the business and providing high value to teams and projects
+                          </div>
+                      </div>
+                      <div class="col-md-2 hidden-sm" style="column-fill: auto;">
+                          <div class="triangle-right hidden-sm hidden-xs"></div>
+                          <div class="lineoftime hidden-sm hidden-xs" style="height: 100%;">
+                          </div>
+                      </div>
+                      <div class="col-sm-5"></div>
+                  </div>
+                  <div class="row no-gutters">
+                      <div class="col-sm-5"></div>
+                      <div class="col-md-2 hidden-sm">
+                          <div class="lineoftime hidden-sm hidden-xs" style="height: 100%;"></div>
+                          <div class="triangle-left hidden-sm hidden-xs"></div>
+                      </div>
+                      <div class="col-sm-5 rightBubble">
+                          <div class="bubbleContent">
+                              Verizon in Greenville, SC<br>
+                              <h4>Web Tech Analyst and Developer, Headquarters Customer Service Knowledge Management</h4>2014 - 2017<br />
+                              <i>Assisted the HQ CS KM team in maintaining and creating tools for frontline support employees.</i>
+                              <ul>
+                                  <li>
+                                      Support lead for enterprise knowledge base software, working with an external vendor to drive improvements and repair issues while communicating with stakeholders on progress.
+                                  </li>
+                                  <li>
+                                      Created a custom service tester to check data integrity on calls, which made it possible for non-technical team members to test all of application services quickly and easily
+                                  </li>
+                                  <li>
+                                      Developed and tested IBM iLog rules for multiple in-house enterprise applications
+                                  </li>
+                                  <li>
+                                      Lead UAT tester for tools developed or maintained by the team.
+                                  </li>
+                                  <li>
+                                      Documented processes through Word and Excel.
+                                  </li>
+                                  <li>Developed SharePoint sites: added custom JS to modify site capabilities, created workflows to manage item status, calculations, and emails.</li>
+                              </ul>
+                              <br>
+                              <b>Recognition: </b> Graduated 2015 PreLeadership Program, enrolled due to management potential and high performance
+                          </div>
+                      </div>
+                  </div>
+                  <div class="row no-gutters">
+                      <div class="col-sm-5 leftBubble">
+                          <div class="bubbleContent">
+                              Verizon in Greenville, SC<br>
+                              <h4>Technical Analyst, Wireless Network Response Team within Technical Support</h4>2012 - 2014<br />
+                              <i>Reviewed and responded to Tier III technical support tickets initially, then became the Lead Reporting Analyst and Team Point-of-Contact after demonstrating thorough work ethic, innovative problem solving, and drive to resolve issues and support my team.</i>
+                              <ul>
+                                  <li>Developed tools for local technical support floor through front-end development, such as a web tool that served up technical information from an MS Access database backend.</li>
+                              </ul>
+                          </div>
+                      </div>
+                      <div class="col-md-2 hidden-sm">
+                          <div class="triangle-right hidden-sm hidden-xs"></div>
+                          <div class="lineoftime hidden-sm hidden-xs" style="height: 100%;">
+                          </div>
+                      </div>
+                      <div class="col-sm-5"></div>
+                  </div>
+                  <div class="row no-gutters">
+                      <div class="col-sm-5"></div>
+                      <div class="col-md-2 hidden-sm">
+                          <div class="lineoftime hidden-sm hidden-xs" style="height: 100%;"></div>
+                          <div class="triangle-left hidden-sm hidden-xs"></div>
+                      </div>
+                      <div class="col-sm-5 rightBubble">
+                          <div class="bubbleContent">
+                              Verizon in Greenville, SC<br>
+                              <h4>Tech Coordinator, Technical Support</h4>2010 - 2012<br />
+                              <i>Provided industry-leading technical support with proficiency in network, device, and symptomatic troubleshooting.</i>
+                              <ul>
+                                  <li>
+                                      Created troubleshooting documentation for my teams’ difficult scenarios.
+                                  </li>
+                                  <li>
+                                      Worked with center leadership on special projects to resolve process inefficiencies at both a high-level view and in the technical trenches, providing comprehensive documentation on recommended changes.
+                                  </li>
+                              </ul>
+                              <br>
+                          </div>
+                      </div>
+                  </div>
               </div>
-            </div>
-            <div class="col-md-2 hidden-sm" style="column-fill: auto;">
-              <div class="triangle-right"></div>
-              <div class="lineoftime" style="height: 100%;">
-              </div>
-            </div>
-            <div class="col-sm-5"></div>
           </div>
-          <div class="row no-gutters">
-            <div class="col-sm-5"></div>
-            <div class="col-md-2 hidden-sm">
-              <div class="lineoftime" style="height: 100%;"></div>
-              <div class="triangle-left"></div>
-            </div>
-            <div class="col-sm-5 rightBubble">
-                <div class="bubbleContent">
-              Verizon Wireless in Greenville, SC<br>
-              <h4>Web Tech Analyst, Headquarters Customer Service Knowledge Management</h4>2014 - 2017
-              <ul>
-              <li>Frontend developer working with HTML, CSS, JS (jQuery, AJAX), SharePoint, and business rules, including a custom-built service tester to check data integrity on our calls</li>
-              <li>iLog rule development and testing for multiple custom-developer customer service tools</li>
-              <li>Lead UAT tester for tools developed or maintained by our team</li>
-              <li>SharePoint site development: added custom JS to modify site capabilities, created workflows to manage item status, calculations, and emails</li>
-              </ul>
-              <br>
-              <b>Recognition: </b> Graduated 2015 PreLeadership Program, enrolled due to management potential and high performance
-            </div>
-            </div>
-          </div>
-          <div class="row no-gutters">
-            <div class="col-sm-5 leftBubble">
-                <div class="bubbleContent">
-              Verizon Wireless in Greenville, SC<br>
-              <h4>Technical Analyst, Wireless Network Response Team within Technical Support</h4>2012 - 2014
-              <ul>
-              <li>Ascended to Lead Reporting Analyst and Team Point-of-Contact</li>
-              <li>Developed tools for local technical support floor through front-end development, such as a web tool that served up technical information from a database backend.</li>
-              </ul>
-              </div>
-            </div>
-            <div class="col-md-2 hidden-sm">
-              <div class="triangle-right"></div>
-              <div class="lineoftime" style="height: 100%;">
-              </div>
-            </div>
-            <div class="col-sm-5"></div>
-          </div>
-        </div>
-    </div>
-    <br>
-    <br>
+          <br>
+          <br>
 
-	  <div id="contact" class="darkblueSection" style="text-align: center">
-      <button type="button" class="btn btn-default" onclick="window.open('https://www.linkedin.com/in/thejenbauer');">Read My [Great] Reviews on LinkedIn&nbsp;&nbsp;<font size=2><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></font></button>
-      <button type="button" class="btn btn-default" onclick="window.open('mailto:hellojenbauer@gmail.com');" style="margin-left:30px;">Send Jen an Email&nbsp;&nbsp;<font size=2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></font></span></button>
-      <br><br>
-      <font size=2>Copyright &copy; 2004-<script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script> Jen Bauer<br>Built using Bootstrap and Visual Studio Code.</font> <!--Add all thanks and links here --><br>
-	  </div>
-    <br><br>
-    </div> <!-- /container -->
-	 
-    <!-- Bootstrap core JavaScript -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="js/bootstrap.min.js"></script>
+          <div id="about" class="jumbotron whiteblueSection">
+              <p>
+                  I am looking forward to my next development adventure.<br>
+                  <a href="https://soundcloud.com/jenbauer" target=_blank>You may also know me as a saxophonist or a sound designer.</a>&nbsp;&nbsp;<a class="btn btn-sm btn-primary" href="https://soundcloud.com/jenbauer" role="button" target=_blank>Hey! Listen! &raquo;</a><br>
+                  <a href="http://www.aes.org/e-lib/browse.cfm?elib=15185" target=_blank>I published a white paper on interactive sound design.</a>&nbsp;&nbsp;<a class="btn btn-sm btn-primary" href="http://www.aes.org/e-lib/browse.cfm?elib=15185" role="button" target=_blank>Read all about it. &raquo;</a><br>
+                  <a href="https://inliquidwonder.itch.io/" target=_blank>I've made games from time to time.</a>&nbsp;&nbsp;<a class="btn btn-sm btn-primary" href="https://inliquidwonder.itch.io/" role="button" target=_blank>Click click! &raquo;</a><!--Some of them are wonky and full of heart, like Thesis Hunter and PAC-Type.-->
+              </p>
+          </div>
+          <br><br>
+
+          <div id="contact" class="darkblueSection" style="text-align: center">
+              <button type="button" class="btn btn-default" onclick="window.open('https://www.linkedin.com/in/thejenbauer');">Read Jen's Great Reviews on LinkedIn&nbsp;&nbsp;<font size=2><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></font></button>
+              <button type="button" class="btn btn-default" onclick="window.open('mailto:hellojenbauer@gmail.com');" style="margin-left:30px;">Send Jen an Email&nbsp;&nbsp;<font size=2><span class="glyphicon glyphicon-envelope" aria-hidden="true"></font></span></button>
+              <br><br>
+              <font size=2>
+                  Copyright &copy; 2004-
+                  <script type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script> Jen Bauer<br>Built using Bootstrap and Visual Studio Code.
+              </font> <!--Add all thanks and links here --><br>
+          </div>
+          <br><br>
+      </div> <!-- /container -->
+
+      <!-- Bootstrap core JavaScript -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+      <script src="js/bootstrap.min.js"></script>
   </body>
 </html>

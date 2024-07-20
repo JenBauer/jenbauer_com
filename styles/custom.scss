@@ -1,0 +1,18 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+@font-face {
+    font-family: "Jen Sans";
+    src: url("../fonts/jen_sans.eot") format('embedded-opentype'),
+         url("../fonts/jen_sans.ttf") format("truetype");
+    font-style: normal;
+}
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    max-width: 100%;
+    border-radius: 8px;
+  }

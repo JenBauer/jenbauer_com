@@ -3,7 +3,7 @@ title: Hello!
 description: This is the title page for Jen Bauer's website, which contains highlights of her career and links to other pages.
 draft: false
 ---
-# Welcome!
+## Welcome!
 Thank you for stopping by my thought garden.
 
 ## About Jen
@@ -15,16 +15,16 @@ I am a process clarifier, documentation wizard, and SQL query conjurer, among ma
 I am available for remote consulting through my business, [Another Angle Solutions](https://anotheranglesolutions.com).
 Check out my business if you could use my expertise on your project.
 
-<img src="images/JenBauer.jpg" alt="Jen Bauer's headshot picture, which shows a curly-haired brunette with glasses and a winning smile." class="centerImg">
+<img src="images/JenBauer.jpg" width=100 height=100 alt="Jen Bauer's headshot picture, which shows a curly-haired brunette with glasses and a winning smile." class="centerImg">
 
 ## A Few Tidbits About My Work and Interests
 
 I have broad interests, especially as they relate to video games and audio.
 
 - I have had the pleasure of educating women about APIs and Postman through our continuing community, [Upstate Women in Software Engineering](https://upwisesc.org).  You can find my recorded sessions [in this Notion space](https://jenbauer.notion.site/Jen-Bauer-s-Docs-b549164bd7394f8c9ba40edd4bdbc8fb).
-- You may also know me as a saxophonist or a sound designer.  [Hey! Listen!](https://soundcloud.com/jenbauer)
-- I published a white paper on interactive sound design.  [Read all about it.](https://aes2.org/publications/elibrary-page/?id=15185)
-- I've made games from time to time.  [Click click!](https://inliquidwonder.itch.io/)
-- You might enjoy my reviews on LinkedIn.  [Whoa!](https://www.linkedin.com/in/thejenbauer/)
+- You may also know me as a saxophonist or a sound designer.  [Hey! Listen! (to Soundcloud)](https://soundcloud.com/jenbauer)
+- I published a white paper on interactive sound design.  [Read all about it at AES.](https://aes2.org/publications/elibrary-page/?id=15185)
+- I've made games from time to time.  [Beep boop to Itch.io!](https://inliquidwonder.itch.io/)
+- You might enjoy my reviews on LinkedIn.  [Whoa, that's a lot of recommendations!](https://www.linkedin.com/in/thejenbauer/)
 
 Those are just a few references that you might enjoy exploring.

@@ -16,7 +16,6 @@ header {
 header h1 {
   margin: 0;
   flex: auto;
-  font-family: "Arsenal SC";
 }
 `
 

@@ -38,11 +38,11 @@ const config: QuartzConfig = {
           gray: "#204f78",
           darkgray: "#122f51",
           dark: "#0c223f",
-          secondary: "#122f51",
-          tertiary: "#0c223f",
+          secondary: "#0c223f",
+          tertiary: "#122f51",
           highlight: "#ffffff",
           textHighlight: "#000000",
-          backgroundFade: "linear-gradient(-90deg, #a0dbf9, #e2eefb, #a0dbf9)"
+          backgroundFade: "linear-gradient(-90deg, #D6EFFA, #e2eefb, #D6EFFA)"
         },
         darkMode: {
           light: "#0c223f",

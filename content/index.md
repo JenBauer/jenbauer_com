@@ -3,11 +3,11 @@ title: Hello!
 description: This is the title page for Jen Bauer's website, which contains highlights of her career and links to other pages.
 draft: false
 ---
-:wave: Thank you for stopping by my thought garden.
+Thank you for stopping by my thought garden.
 
-I'm Jen Bauer: a software whisperer, tech educator, and community leader.
+I'm Jen Bauer: tech educator, software whisperer, and community leader.
 
-I started this thought garden as a space for sharing my thoughts on good software, quality assurance, and any other technical topics.
+I started this thought garden as a space for sharing my thoughts on good software, quality assurance, and unknown other topics that fascinate me.
 I am available for remote consulting through my business, Another Angle Solutions.
 I am a process clarifier, documentation wizard, and SQL query conjurer, among many other helpful roles.
 You are welcome to [email me](mailto:hellojenbauer@gmail.com) if you could use my expertise on your project.

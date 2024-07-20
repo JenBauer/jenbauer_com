@@ -1,0 +1,22 @@
+---
+title: Hello!
+description: This is the title page for Jen Bauer's website, which contains highlights of her career and links to other pages.
+draft: false
+---
+:wave: Thank you for stopping by my thought garden.
+
+I'm Jen Bauer: a software whisperer, tech educator, and community leader.
+
+I started this thought garden as a space for sharing my thoughts on good software, quality assurance, and any other technical topics.
+I am available for remote consulting through my business, Another Angle Solutions.
+I am a process clarifier, documentation wizard, and SQL query conjurer, among many other helpful roles.
+You are welcome to [email me](mailto:hellojenbauer@gmail.com) if you could use my expertise on your project.
+
+<img src="images/JenBauer.jpg" alt="Jen Bauer's headshot picture, which shows a curly-haired brunette with glasses and a winning smile." class="centerImg">
+
+---
+
+#### You may also know me as a saxophonist or a sound designer.  [Hey! Listen!](https://soundcloud.com/jenbauer)
+#### I published a white paper on interactive sound design.  [Read all about it.](https://aes2.org/publications/elibrary-page/?id=15185)
+#### I've made games from time to time.  [Click click!](https://inliquidwonder.itch.io/)
+#### You might enjoy my reviews on LinkedIn.  [Whoa!](https://www.linkedin.com/in/thejenbauer/)

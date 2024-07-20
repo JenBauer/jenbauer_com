@@ -14,7 +14,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Jen Bauer",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },

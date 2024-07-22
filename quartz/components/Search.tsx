@@ -18,7 +18,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
     const opts = { ...defaultOptions, ...userOpts }
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder
     return (
-      <div class={classNames(displayClass, "search")}>
+      <div class={classNames(displayClass, "search")} role="search">
         <div id="search-icon">
           <p>{i18n(cfg.locale).components.search.title}</p>
           <div></div>

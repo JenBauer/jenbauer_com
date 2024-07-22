@@ -219,6 +219,7 @@ export function renderPage(
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
+          <main role="main">
             {LeftComponent}
             <div class="center">
               <div class="page-header">
@@ -242,6 +243,7 @@ export function renderPage(
               </div>
             </div>
             {RightComponent}
+          </main>
           </Body>
           <Footer {...componentData} />
         </div>

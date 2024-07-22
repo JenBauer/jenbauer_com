@@ -36,7 +36,7 @@ export default ((userOpts?: Partial<Options>) => {
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
-      <div class={classNames(displayClass, "recent-notes")}>
+      <aside class={classNames(displayClass, "recent-notes")} aria-label="recent-notes">
         <h3>{opts.title ?? i18n(cfg.locale).components.recentNotes.title}</h3>
         <ul class="recent-ul">
           {pages.slice(0, opts.limit).map((page) => {
@@ -84,7 +84,7 @@ export default ((userOpts?: Partial<Options>) => {
             </a>
           </p>
         )}
-      </div>
+      </aside>
     )
   }
 

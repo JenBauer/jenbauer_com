@@ -34,7 +34,7 @@ This is key.  Instead of having time blocks for each specific task, consider wha
 
 Depending on how you like to schedule things, whether in a paper planner or a digital calendar, take note of these groupings.  Here's what my repeating events look like:
 
-![A Google calendar weekly view, showing repeating daily events for exercise and medicine in the morning and another repeating event in the evening for similar tasks.](img/2024-09-20-Schedule.png)
+![A Google calendar weekly view, showing repeating daily events for exercise and medicine in the morning and another repeating event in the evening for similar tasks.](images/2024-09-20-Schedule.png)
 
 ### Step Three: Allow yourself enough time to do things out of order, or with variation.
 I believe this is the key to getting things done within time buckets as an ADHD person.  I need to feel that I have some free will, or flexibility, in what I do and when.  However, having no rails at all leads to days where very little of what I've planned gets done.  I know what must get done, but having agency over how and when, even if the flexibility is important, is crucial.

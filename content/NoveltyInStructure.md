@@ -46,5 +46,12 @@ There are other times when I have played an audio book while exercising or takin
 ### Expanding on the idea.
 If you are inclined, you can extend this concept to work, school, family, and many other sorts of tasks that often need to be completed within a set time or a set day.  Finding opportunities for combinations and flexibility is key!
 
+You may also find that you need to adjust these time blocks to be longer or shorter as you go.  This is not only natural, but encouraged.  The idea here is to find the system that works *for you* in the best way possible, rather than matching a schedule I or anyone else on the internet shows you.
+
+### The final revelation: What time is left?
+This approach highlighted the inverse of my available time for me also.  If I am spending an hour or so every morning and every evening doing specific self-care tasks, then *what time is left for the rest?*  When you have your critical items blocked out, you may realize that there isn't as much time to do *all the things* as you are hoping for.
+
+For me, there was a mourning time for how seemingly carefree my life was before parenthood, marriage, even my professional life.  It was all so free-flowing and creative.  I don't live in the past, though, so I know that it's incredibly important to see what the bounds are for my time.  This was a way to cull my task list down to what matters most.
+
 ### A foundation for doing what matters dynamically.
 This approach took me considerable time to arrive to.  I have other systems of repeating tasks, setting priorities, and otherwise trying to cajole myself forward, but at the foundation is this setup.  I have a clear aversion to rigidity or overly-prescribing my day and task list, despite needing to balance so many categories of things to get done.

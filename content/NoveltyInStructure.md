@@ -53,5 +53,5 @@ This approach highlighted the inverse of my available time for me also.  If I am
 
 For me, there was a mourning time for how seemingly carefree my life was before parenthood, marriage, even my professional life.  It was all so free-flowing and creative.  I don't live in the past, though, so I know that it's incredibly important to see what the bounds are for my time.  This was a way to cull my task list down to what matters most.
 
-### A foundation for doing what matters dynamically.
+### A foundation for dynamically doing what matters.
 This approach took me considerable time to arrive to.  I have other systems of repeating tasks, setting priorities, and otherwise trying to cajole myself forward, but at the foundation is this setup.  I have a clear aversion to rigidity or overly-prescribing my day and task list, despite needing to balance so many categories of things to get done.

@@ -14,7 +14,7 @@ Hello, neurospicy readers and neurotypical wanderers.  I am a late diagnosed mem
 
 Since I was young, I always took fastidious notes to compensate for my memory, which seemed to betray me without rhyme or reason during school and my professional life.  I created ways to track and repeat tasks, witnessing firsthand days where I would forget everything - even the daily vitamins I had taken for years prior - without a reminder.
 
-Despite this, I found that a rigid schedule with assigned tasks and times was an unbearable system to work through.  I couldn't keep myself exactly on time on off-days, often jumping in too early or too late from what I had set for myself to achieve.  I kept failing myself at my own systems!  I knew I had to a find an entirely new way.
+Despite this, I found that a rigid schedule with assigned tasks and times was an unbearable system to work through.  I couldn't keep myself exactly on time on off-days, often jumping in too early or too late from what I had set for myself to achieve.  I kept failing myself at my own systems!  I knew I had to find an entirely new way.
 
 This is about the foundation of a new method for those who need to get done so many things, yet struggle with repetition and normalcy.  I have been doing this for weeks now with success, without having a name recognized for it or a conscious knowledge of it.
 
@@ -41,7 +41,7 @@ I believe this is the key to getting things done within time buckets as an ADHD 
 
 For example, a recent exercise session was a combined meditation *and* bike exercise for a half-hour using an instructor-led YouTube video.  I had never done this before, but I knew that I had dedicated time for exercise, so trying a *new* kind of exercise was absolutely in range, and still met my core needs.  The newness brought the novelty I craved to my morning.
 
-There are other times when I have played an audio book while exercising or taking vitamins, or otherwise combined novelty with what needed to get done.  This helps each day feel like less of a repeat, while still meeting my health needs.
+There are other times when I have played an audiobook while exercising or taking vitamins, or otherwise combined novelty with what needed to get done.  This helps each day feel like less of a repeat, while still meeting my health needs.
 
 ### Expanding on the idea.
 If you are inclined, you can extend this concept to work, school, family, and many other sorts of tasks that often need to be completed within a set time or a set day.  Finding opportunities for combinations and flexibility is key!
@@ -54,4 +54,4 @@ This approach highlighted the inverse of my available time for me also.  If I am
 For me, there was a mourning time for how seemingly carefree my life was before parenthood, marriage, even my professional life.  It was all so free-flowing and creative.  I don't live in the past, though, so I know that it's incredibly important to see what the bounds are for my time.  This was a way to cull my task list down to what matters most.
 
 ### A foundation for dynamically doing what matters.
-This approach took me considerable time to arrive to.  I have other systems of repeating tasks, setting priorities, and otherwise trying to cajole myself forward, but at the foundation is this setup.  I have a clear aversion to rigidity or overly-prescribing my day and task list, despite needing to balance so many categories of things to get done.
+This approach took me considerable time to arrive at.  I have other systems of repeating tasks, setting priorities, and otherwise trying to cajole myself forward, but at the foundation is this setup.  I have a clear aversion to rigidity or overly-prescribing my day and task list, despite needing to balance so many categories of things to get done.

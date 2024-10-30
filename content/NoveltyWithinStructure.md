@@ -1,6 +1,6 @@
 ---
 title: Novelty Within Structure
-description: This discussion is about creating scheduling to allow for flexibility and success for those with the ADHD operating system.
+description: This discussion is about creating a schedule that allows for flexibility and success for those with ADHD.
 tags:
     - ADHD
     - Executive Functioning
@@ -51,7 +51,7 @@ You may also find that you need to adjust these time blocks to be longer or shor
 ### The final revelation: What time is left?
 This approach highlighted the inverse of my available time for me also.  If I am spending an hour or so every morning and every evening doing specific self-care tasks, then *what time is left for the rest?*  When you have your critical items blocked out, you may realize that there isn't as much time to do *all the things* as you are hoping for.
 
-For me, there was a mourning time for how seemingly carefree my life was before parenthood, marriage, even my professional life.  It was all so free-flowing and creative.  I don't live in the past, though, so I know that it's incredibly important to see what the bounds are for my time.  This was a way to cull my task list down to what matters most.
+For me, there was a mourning time for how seemingly carefree my life was before parenthood, marriage, even my professional life.  It was all so free-flowing and creative.  I don't live in the past, though, so I know that it's incredibly important to see what the bounds are for my time now.  This was a way to cull my task list down to what matters most for my present life.
 
 ### A foundation for dynamically doing what matters.
 This approach took me considerable time to arrive at.  I have other systems of repeating tasks, setting priorities, and otherwise trying to cajole myself forward, but at the foundation is this setup.  I have a clear aversion to rigidity or overly-prescribing my day and task list, despite needing to balance so many categories of things to get done.

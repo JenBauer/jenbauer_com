@@ -2,6 +2,7 @@
 title: Hello!
 description: This is the title page for Jen Bauer's website, which contains highlights of her career and links to other pages.
 draft: false
+date: 2024-07-19
 ---
 ## Welcome!
 Thank you for stopping by my thought garden.

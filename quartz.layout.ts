@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "LinkedIn": "https://www.linkedin.com/in/thejenbauer/",
       "Resume": "http://jenbauer.com/JenBauer_Resume.pdf",
       "YouTube": "https://www.youtube.com/@JenBauer",
-      "Notion Docs": "https://jenbauer.notion.site/Jen-Bauer-s-Docs-b549164bd7394f8c9ba40edd4bdbc8fb",
+      "UpWISE": "https://upwisesc.org",
       "Email": "hellojenbauer@gmail.com"
     },
   }),
@@ -33,10 +33,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
-    Component.Graph(),
-    Component.TableOfContents(),
+    //Component.Graph(),
+    //Component.TableOfContents(),
     Component.RecentNotes({ title: "Recent Writing" }),
-    //Component.DesktopOnly(Component.Backlinks()),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 

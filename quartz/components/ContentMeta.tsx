@@ -33,6 +33,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push("Published " + formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
 
+      if (fileData.slug === "index") {
+        return <></>
+      }
+
       // Display reading time if enabled
       if (options.showReadingTime) {
         const { minutes, words: _words } = readingTime(text)

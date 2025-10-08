@@ -4,17 +4,13 @@ description: This is the title page for Jen Bauer's website, which contains high
 draft: false
 date: 2024-07-19
 ---
-## Welcome!
-Thank you for stopping by my thought garden.
-
 ## About Jen
-I'm Jen Bauer: tech educator, software whisperer, and community leader.
+I'm Jen Bauer: an API detective, software whisperer, and community leader.
 
-I started this thought garden as a space for sharing my thoughts on good software, quality assurance, and unknown other topics that fascinate me.
+I started this thought garden as a space for sharing my thoughts on good software, APIs, QA, community, and unknown other topics that fascinate me.
 I am a process clarifier, documentation wizard, and SQL query conjurer, among many other helpful roles.
 
 I am available for remote consulting through my business, [Another Angle Solutions](https://anotheranglesolutions.com).
-Check out my business if you could use my expertise on your project.
 
 <img src="images/JenBauer.jpg" width=100 height=100 alt="Jen Bauer's headshot picture, which shows a curly-haired brunette with glasses and a winning smile." class="centerImg">
 
